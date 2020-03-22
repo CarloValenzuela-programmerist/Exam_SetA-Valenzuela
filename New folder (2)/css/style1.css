@@ -1,0 +1,201 @@
+body{
+   background-color: black;
+    margin-top: 50px;
+    
+    
+    
+}
+
+h1{
+    font-size: 1.5cm;
+    color: white;
+    
+}
+.Reset{
+    position: relative;
+    display: inline-block;
+    padding: 20px 40px;
+    color:yellow;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+    margin-right: 12cm;
+    margin-left: 1cm;
+    margin-top: 0.5cm;
+    align-content: center;
+    background-color:darkblue;
+    border-radius: 1cm;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.Show{
+    position: relative;
+    display: inline-block;
+    padding: 20px 40px;
+    color:yellow;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+    margin-left: 26cm;
+    margin-top: 0.5cm;
+    align-content: center;
+    background-color:darkblue;
+    border-radius: 1cm;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.Show:hover{
+    color: cyan;
+    background-color: black;
+    box-shadow: 0 0 10px blue, 0 0 40px blue, 0 0 80px blue;
+    font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    transition-delay: 0.3s;
+}
+.Reset:hover{
+    color: cyan;
+    background-color: black;
+    box-shadow: 0 0 10px blue, 0 0 40px blue, 0 0 80px blue;
+    font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    transition-delay: 0.3s;
+
+
+}
+.gen:hover{
+    color: cyan;
+    background-color: black;
+    box-shadow: 0 0 10px blue, 0 0 40px blue, 0 0 80px blue;
+    font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    transition-delay: 0.3s;
+}
+.bg{
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: -27px -27px 54px red,27px 27px 54px blue;
+    margin: 4rem;
+    margin-left: 8cm;
+    margin-right: 8cm;
+    padding: 2.5rem;
+    background-position: center;
+    background-image: url(../img/background.png);
+    background-size: cover;
+}
+
+.gen{
+    position: relative;
+    display: inline-block;
+    padding: 20px 40px;
+    color:yellow;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+    
+    margin-top: 2.5cm;
+    align-content: center;
+    margin-left: -40cm;
+    background-color:darkblue;
+    border-radius: 1cm;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.col-sm-6{
+    margin-top: -1.3cm;
+}
+
+h3{
+    color: white;
+    font-size: 5ch;
+}
+
+.select{
+        position: relative;
+        display: inline-block;
+        padding: 20px 40px;
+        color:yellow;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        text-decoration: none;
+        font-size: 24px;
+        overflow: hidden;
+        transition: 0.2s;
+        margin-right: -14cm;
+        margin-top: -4cm;
+        align-content: center;
+        background-color:darkblue;
+        border-radius: 1cm;
+        border-color: black;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.select:hover{
+    color: cyan;
+    background-color: black;
+    box-shadow: 0 0 10px blue, 0 0 40px blue, 0 0 80px blue;
+    font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    transition-delay: 0.3s;
+}
+h3{
+    font-size: 1cm;
+
+}
+#motor{
+    border: solid 5px rgb(9,32,9);
+    border-radius: 10px;
+    max-width: 100%;
+    width: 45rem;
+    box-shadow: -27px -27px 54px black,27px 27px 54px black;
+}
+.random{
+    float: left;
+    margin-left: 14cm;
+}
+
+.specific{
+    float: right;
+    margin-right: 15cm;
+    margin-top: -2.6cm;
+    
+    
+}
+.image{
+    
+    width: 15cm;
+}
+.wew{
+    position: relative;
+    display: inline-block;
+    padding: 20px 40px;
+    color:yellow;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    text-decoration: none;
+    font-size: 25px;
+    overflow: hidden;
+    transition: 0.2s;
+    margin-left: 19.6cm;
+    margin-top: 0.5cm;
+    align-content: center;
+    background-color:darkblue;
+    border-radius: 1cm;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.wew:hover{
+    color: cyan;
+    background-color: black;
+    box-shadow: 0 0 10px blue, 0 0 40px blue, 0 0 80px blue;
+    font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    transition-delay: 0.3s;
+}

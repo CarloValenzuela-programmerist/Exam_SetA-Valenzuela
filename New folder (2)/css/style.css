@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/images\ \(6\).jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.ninja{
+    height: 4cm;
+    width: 12cm;
+    margin-top: 1cm;
+    margin-left: 1cm;
+    padding: 0%;
+}
+.wew{
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color:black;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+    margin-left: 4cm;
+    margin-top: 1cm;
+    align-content: center;
+    background-color:darkred;
+    border-radius: 1cm;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+    
+}
+
+
+.wew:hover{
+    color: darkred;
+    background-color: black;
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+    font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    transition-delay: 0.3s;
+    
+    
+}
